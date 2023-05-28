@@ -1,2 +1,2 @@
-# MMAC-POEDINOK
-Sports club website
+# My certificates
+Netology certificates
